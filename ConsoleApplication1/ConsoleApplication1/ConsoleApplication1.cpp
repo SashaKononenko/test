@@ -1,11 +1,10 @@
-// ConsoleApplication1.cpp: определяет точку входа для консольного приложения.
+// ConsoleApplication1.cpp: пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
 //
 
 #include "stdafx.h"
 
 
-int main(int argc, _TCHAR* argv[])
+void main(int argc, _TCHAR* argv[])
 {
-	return 0;
-}
 
+}
